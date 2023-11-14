@@ -36,5 +36,5 @@ for a more in-depth exploration of edge tracking algorithms, you can refer to my
 - [User Manual (PDF)](Master Thesis Mingtao.pdf)
 ## Documentation
 
-Check out the [PDF documentation]() for more detailed information.
+Check out the [PDF documentation](Master_Thesis.pdf) for more detailed information.
 
