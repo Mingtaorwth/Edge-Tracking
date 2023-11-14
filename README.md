@@ -31,10 +31,7 @@ the difference in position between the blue edges from the previous frame and th
 green edges predicted for the current frame signifies the manifestation of optical
 flow or, in other words, "edge flow" within this algorithm.
 
-## Contributing
-for a more in-depth exploration of edge tracking algorithms, you can refer to my master's thesis.
-- [User Manual (PDF)](Master Thesis Mingtao.pdf)
 ## Documentation
-
+for a more in-depth exploration of edge tracking algorithms, you can refer to my master's thesis.
 Check out the [PDF documentation](Master_Thesis.pdf) for more detailed information.
 
