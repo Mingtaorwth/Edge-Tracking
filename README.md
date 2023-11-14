@@ -32,6 +32,6 @@ flow or, in other words, "edge flow" within this algorithm.
 
 ## Contributing
 for a more in-depth exploration of edge tracking algorithms, you can refer to my master's thesis.
-![PDF documentation](Master Thesis Mingtao.pdf)
+- [User Manual (PDF)](Master Thesis Mingtao.pdf)
 
 
