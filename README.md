@@ -6,6 +6,7 @@ Tracking the edges  between 2 frames
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Documentation](#Documentation)
 
 ## Installation
 
@@ -33,5 +34,7 @@ flow or, in other words, "edge flow" within this algorithm.
 ## Contributing
 for a more in-depth exploration of edge tracking algorithms, you can refer to my master's thesis.
 - [User Manual (PDF)](Master Thesis Mingtao.pdf)
+## Documentation
 
+Check out the [PDF documentation]() for more detailed information.
 
