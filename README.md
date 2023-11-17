@@ -5,7 +5,6 @@ Tracking the edges  between 2 frames
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Documentation](#Documentation)
 
 ## Installation
