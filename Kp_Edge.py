@@ -171,9 +171,9 @@ if __name__ == "__main__":
 
     error_lis = []
     for t in tqdm(range(1, 32, 1)):
-        pt1 = f"Color_images/BasketballDrill/42-8bit/img-{t-1}.png"
-        pt2 = f"Color_images/BasketballDrill/42-8bit/img-{t}.png"
-        pt3 = f"Color_images/BasketballDrill/42-8bit/img-{t}.png"
+        pt1 = f"frames/img-{t-1}.png"
+        pt2 = f"frames/img-{t}.png"
+        pt3 = f"frames/img-{t}.png"
         edge_racking = EdgeTracking(pt1, pt2, pt3, feature_params, lk_params)
         edge_racking()
 
