@@ -34,5 +34,5 @@ flow or, in other words, "edge flow" within this algorithm. The green arrows rep
 ## Documentation
 This code primarily utilizes the KLT (Kanade-Lucas-Tomasi) keypoint tracking and affine transformation methods for tracking edges in two consecutive frames of images.
 for a more in-depth exploration of edge tracking algorithms, you can refer to my master's thesis.
-Check out the [PDF documentation](Master_Thesis.pdf) for more detailed information.
+Check out the [PDF documentation](Master_Thesis_Mingtao_Ou.pdf) for more detailed information.
 
