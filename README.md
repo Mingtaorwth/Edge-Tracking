@@ -25,7 +25,7 @@ pip install scipy
 python edge_tracking.py
 ```
 - Run edge_tracking.py file to get the result:
-![Example Image](Edge_tracking_result.png)
+![Example Image](edge_motion_31.png)
 
 The difference in position between the blue edges from the previous frame and the
 green edges predicted for the current frame signifies the manifestation of optical
